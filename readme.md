@@ -1,6 +1,6 @@
 <img src="https://graph.org//file/7f7fb1591136b7dc9bdab.jpg" align="right" width="200" height="200"/>
 
-# Anjali Music Bot <img src="https://img.shields.io/github/v/release/MAHTO-ANJALI/AnjaliMusicTwo?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# ˹𝐀ɴᴊᴀʟɪ ꭙ 𝐌ᴜsɪᴄ˼ ♪² <img src="https://img.shields.io/github/v/release/MAHTO-ANJALI/AnjaliMusicTwo?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Anjali Music Bot](https://github.com/MAHTO-ANJALI/AnjaliMusicTwo) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
