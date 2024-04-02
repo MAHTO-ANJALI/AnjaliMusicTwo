@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-present by TeamYukki@Github, < https://github.com/TeamYukki >.
+# Copyright (C) 2021-present by MAHTO-ANJALI@Github, < https://github.com/MAHTO-ANJALI >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/MAHTO-ANJALI/AnjaliMusicTwo > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/MAHTO-ANJALI/AnjaliMusicTwo/blob/master/LICENSE >
 #
 # All rights reserved.
 #
@@ -146,13 +146,12 @@ STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
 
-#  __     ___    _ _  ___  _______   __  __ _    _  _____ _____ _____   ____   ____ _______
-#  \ \   / / |  | | |/ / |/ /_   _| |  \/  | |  | |/ ____|_   _/ ____| |  _ \ / __ \__   __|
-#   \ \_/ /| |  | | ' /| ' /  | |   | \  / | |  | | (___   | || |      | |_) | |  | | | |
-#    \   / | |  | |  < |  <   | |   | |\/| | |  | |\___ \  | || |      |  _ <| |  | | | |
-#     | |  | |__| | . \| . \ _| |_  | |  | | |__| |____) |_| || |____  | |_) | |__| | | |
-#     |_|   \____/|_|\_\_|\_\_____| |_|  |_|\____/|_____/|_____\_____| |____/ \____/  |_|
-
+#     _    _   _     _   _    _     ___   __  __ _   _ ____ ___ ____   ____   ___ _____ 
+#    / \  | \ | |   | | / \  | |   |_ _| |  \/  | | | / ___|_ _/ ___| | __ ) / _ \_   _|
+#   / _ \ |  \| |_  | |/ _ \ | |    | |  | |\/| | | | \___ \| | |     |  _ \| | | || |  
+#  / ___ \| |\  | |_| / ___ \| |___ | |  | |  | | |_| |___) | | |___  | |_) | |_| || |  
+# /_/   \_\_| \_|\___/_/   \_\_____|___| |_|  |_|\___/|____/___\____| |____/ \___/ |_|  
+#
 
 ### DONT TOUCH or EDIT codes after this line
 BANNED_USERS = filters.user()
