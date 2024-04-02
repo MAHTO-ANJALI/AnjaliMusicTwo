@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://graph.org//file/7f7fb1591136b7dc9bdab.jpg" align="right" width="200" height="200"/>
 
 # Anjali Music Bot <img src="https://img.shields.io/github/v/release/MAHTO-ANJALI/AnjaliMusicTwo?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
