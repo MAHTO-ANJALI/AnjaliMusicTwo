@@ -1,8 +1,8 @@
-# Yukki Music Bot Configs
+# ˹𝐀ɴᴊᴀʟɪ ꭙ 𝐌ᴜsɪᴄ˼ ♪² Configs
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
-### Get to know about all these vars in depth from our Docs. [Read Now from Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/config-vars/available-vars)
+### Get to know about all these vars in depth from our Docs. [Read Now from Here](https://notreallyshikhar.gitbook.io/AnjaliMusicTwo/config-vars/available-vars)
 
 ## Mandatory Vars
 
@@ -15,7 +15,7 @@ Config vars are basically the variables which configure or modify bot to functio
 5. `LOG_GROUP_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
 6. `MUSIC_BOT_NAME` : A name for your Music bot.
 7. `OWNER_ID` : Your Owner ID for managing your bot.
-8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
+8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@AnjalixSessionxBot](http://t.me/AnjalixSessionxBot) in Telegram.
 
 
 ## Non-Mandatory Vars
@@ -59,7 +59,7 @@ Config vars are basically the variables which configure or modify bot to functio
 - You can play tracks or playlists from spotify from Yukki Music bot
 - You'll need these two vars to make spotify play working. This is not essential , you can leave them blank if you want.
 
-### How to get these? [Read from here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/spotify)
+### How to get these? [Read from here](https://notreallyshikhar.gitbook.io/AnjaliMusicTwo/deployment/spotify)
 
 
 1. `SPOTIFY_CLIENT_ID` : Get it from https://developer.spotify.com/dashboard 
@@ -70,7 +70,7 @@ Config vars are basically the variables which configure or modify bot to functio
 - To work some Heroku compatible modules, this var value required to Access your account to use `get_log`, `usage`, `update` etc etc commands.
 - You can fill this var using your API key or Authorization token.
 
-### How to get these? [Read from here](https://notreallyshikhar.gitbook.io/yukkimusicbot/config-vars/heroku-vars)
+### How to get these? [Read from here](https://notreallyshikhar.gitbook.io/AnjaliMusicTwo/config-vars/heroku-vars)
 
 1. `HEROKU_API_KEY` : Get it from http://dashboard.heroku.com/account 
 2. `HEROKU_APP_NAME` : You have to Enter the app name which you gave to identify your Music Bot in Heroku.
@@ -89,8 +89,8 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Images/Thumbnail Vars
 
-- You can change images which are used in Yukki Music Bot.
-- You can generate telegaph links from [@YukkiTelegraphBot](http://t.me/YukkiTelegraphBot) and use it here.
+- You can change images which are used in Anjli Music Bot.
+- You can generate telegaph links from [@AnjaliMusicTwoBot](http://t.me/AnjaliMusicTwoBot) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
